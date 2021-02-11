@@ -1,2 +1,2 @@
-# lorem-commit
+# Lorem commit
  
